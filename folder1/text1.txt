@@ -1,0 +1,2 @@
+THis is the first text file
+then we can learn git
